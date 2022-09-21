@@ -12,6 +12,7 @@ import {
 
 router.get("/", async function (req,res) {
     const result = await getEvents();
+    console.log(result)
     res.json({success:true, payload:result});
 })
 
