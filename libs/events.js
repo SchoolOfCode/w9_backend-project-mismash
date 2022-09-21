@@ -2,7 +2,7 @@ const events = [
     {
         type: "Social",
         author: "Wanteng",
-        description: "Just want to meet up and chat after class on Monday",
+        description: "New events",
         date: "2023-07-15",
         start_time: "17:15",
         end_time: "18:15",
